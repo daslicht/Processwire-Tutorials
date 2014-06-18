@@ -1,4 +1,0 @@
-Processwire-Tutorials
-=====================
-
-Processwire - Tutorials
