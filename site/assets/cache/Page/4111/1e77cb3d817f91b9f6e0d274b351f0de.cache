@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<title>Skyscraper Architects</title>
+
+	<link rel="stylesheet" type="text/css" href="/site/templates/styles/main.css?v=3" />
+
+	
+	<script type="text/javascript" src="/site/templates/scripts/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+	<script type="text/javascript" src="/site/templates/scripts/main.js"></script>
+	<script type="text/javascript" src="/site/templates/scripts/RCDMap.js"></script>
+
+	
+</head>
+
+<body id="body_architects" class="template_architects">
+
+	<div class='container'>
+
+		<div id='masthead'>
+
+			<ul id='topnav'>
+				<li><a id='topnav_home' href='/'>Directory of United States Skyscrapers</a></li>
+				<li><a id='topnav_cities' href='/cities/'>Cities</a></li>
+				<li><a id='topnav_architects' href='/architects/'>Architects</a></li>
+				<li><a id='topnav_about' href='/about/'>About</a></li>
+			</ul>
+
+			<ul id='breadcrumb'><li><a href='/'>Skyscrapers</a> &gt; </li></ul>
+
+			<h1>Skyscraper Architects</h1>
+
+			<p id='parent_label'><a href='/'>Skyscrapers</a>
+		</div>
+
+		<div id="content">
+
+			
+<ul class='PageArray'>
+	<li><a href='/architects/a-eugine-kohn/'>A Eugine Kohn</a></li>
+	<li><a href='/architects/adrian-smith/'>Adrian Smith</a></li>
+	<li><a href='/architects/albert-c-martin-sr/'>Albert C. Martin, Sr.</a></li>
+	<li><a href='/architects/albert-kahn/'>Albert Kahn</a></li>
+	<li><a href='/architects/alexander-cantin/'>Alexander Cantin</a></li>
+	<li><a href='/architects/alfred-bossom/'>Alfred Bossom</a></li>
+	<li><a href='/architects/alfred-c-finn/'>Alfred C. Finn</a></li>
+	<li><a href='/architects/alfred-s-alschuler/'>Alfred S. Alschuler</a></li>
+	<li><a href='/architects/alvin-m-strauss/'>Alvin M. Strauss</a></li>
+	<li><a href='/architects/ammi-b-young/'>Ammi B. Young</a></li>
+	<li><a href='/architects/armand-p-avakian/'>Armand P Avakian</a></li>
+	<li><a href='/architects/arquitectonica/'>Arquitectonica</a></li>
+	<li><a href='/architects/arthur-brown-jr/'>Arthur Brown Jr</a></li>
+	<li><a href='/architects/arthur-erickson/'>Arthur Erickson</a></li>
+	<li><a href='/architects/associated-architects/'>Associated Architects</a></li>
+	<li><a href='/architects/benjamin-wistar-morris-iii/'>Benjamin Wistar Morris III</a></li>
+	<li><a href='/architects/bill-fain/'>Bill Fain</a></li>
+	<li><a href='/architects/bradford-gilbert/'>Bradford Gilbert</a></li>
+	<li><a href='/architects/bruce-graham/'>Bruce Graham</a></li>
+	<li><a href='/architects/c-howard-crane/'>C. Howard Crane</a></li>
+	<li><a href='/architects/cass-gilbert/'>Cass Gilbert</a></li>
+	<li><a href='/architects/caudill-rowlett-scott/'>Caudill Rowlett Scott</a></li>
+	<li><a href='/architects/cesar-pelli/'>César Pelli</a></li>
+	<li><a href='/architects/charles-a-atwood/'>Charles A. Atwood</a></li>
+	<li><a href='/architects/charles-gwathmey/'>Charles Gwathmey</a></li>
+	<li><a href='/architects/charles-klauder/'>Charles Klauder</a></li>
+	<li><a href='/architects/charles-luckman/'>Charles Luckman</a></li>
+	<li><a href='/architects/chester-l-lindsey-1/'>Chester L. Lindsey</a></li>
+	<li><a href='/architects/christian-de-portzamparc/'>Christian de Portzamparc</a></li>
+	<li><a href='/architects/claude-beelman/'>Claude Beelman</a></li>
+	<li><a href='/architects/clinton-and-russell/'>Clinton and Russell</a></li>
+	<li><a href='/architects/cram-and-ferguson/'>Cram and Ferguson</a></li>
+	<li><a href='/architects/d-h-burnham-company/'>D. H. Burnham &amp; Company</a></li>
+	<li><a href='/architects/daniel-burnham/'>Daniel Burnham</a></li>
+	<li><a href='/architects/daniel-libeskind/'>Daniel Libeskind</a></li>
+	<li><a href='/architects/dankmar-adler/'>Dankmar Adler</a></li>
+	<li><a href='/architects/david-brody-bond/'>David Brody Bond</a></li>
+	<li><a href='/architects/david-childs/'>David Childs</a></li>
+	<li><a href='/architects/david-rockwell/'>David Rockwell</a></li>
+	<li><a href='/architects/der-scutt/'>Der Scutt</a></li>
+	<li><a href='/architects/diller-scofidio-renfro/'>Diller Scofidio + Renfro</a></li>
+	<li><a href='/architects/duda-paine/'>Duda/Paine Architects, LLP</a></li>
+	<li><a href='/architects/edward-durell-stone/'>Edward Durell Stone</a></li>
+	<li><a href='/architects/edward-larabee-barnes/'>Edward Larabee Barnes</a></li>
+	<li><a href='/architects/ely-jacques-kahn/'>Ely Jacques Kahn</a></li>
+	<li><a href='/architects/emery-roth/'>Emery Roth</a></li>
+	<li><a href='/architects/emery-roth-and-sons/'>Emery Roth and Sons</a></li>
+	<li><a href='/architects/eric-kuhne/'>Eric Kuhne</a></li>
+	<li><a href='/architects/ernest-cormier/'>Ernest Cormier</a></li>
+	<li><a href='/architects/ernest-flagg/'>Ernest Flagg</a></li>
+	<li><a href='/architects/ernest-r-graham/'>Ernest R. Graham</a></li>
+	<li><a href='/architects/fazlur-khan/'>Fazlur Khan</a></li>
+	<li><a href='/architects/flatow-moore-bryan-fairburn/'>Flatow, Moore, Bryan, and Fairburn</a></li>
+	<li><a href='/architects/florence-casler/'>Florence Casler</a></li>
+	<li><a href='/architects/francis-kimball/'>Francis Kimball</a></li>
+	<li><a href='/architects/frank-gehry/'>Frank Gehry</a></li>
+	<li><a href='/architects/frank-lloyd-wright/'>Frank Lloyd Wright</a></li>
+	<li><a href='/architects/frederick-j-osterling/'>Frederick J. Osterling</a></li>
+	<li><a href='/architects/fumihiko-maki/'>Fumihiko Maki</a></li>
+	<li><a href='/architects/gary-handel/'>Gary Handel</a></li>
+	<li><a href='/architects/gene-carlisle/'>Gene Carlisle</a></li>
+	<li><a href='/architects/george-a-fuller/'>George A. Fuller</a></li>
+	<li><a href='/architects/george-b-post/'>George B. Post</a></li>
+	<li><a href='/architects/george-c-nimmons/'>George C. Nimmons</a></li>
+	<li><a href='/architects/george-d-mason/'>George D. Mason</a></li>
+	<li><a href='/architects/george-dahl/'>George Dahl</a></li>
+	<li><a href='/architects/george-howe/'>George Howe</a></li>
+	<li><a href='/architects/george-schipporeit/'>George Schipporeit</a></li>
+	<li><a href='/architects/george-w-kelham/'>George W. Kelham</a></li>
+	<li><a href='/architects/gluckman-mayner-architects/'>Gluckman Mayner Architects</a></li>
+	<li><a href='/architects/gordon-bunshaft/'>Gordon Bunshaft</a></li>
+	<li><a href='/architects/gordon-w-lloyd/'>Gordon W. Lloyd</a></li>
+	<li><a href='/architects/graham-anderson-probst-white/'>Graham, Anderson, Probst &amp; White</a></li>
+	<li><a href='/architects/gregory-johnson/'>Gregory Johnson</a></li>
+	<li><a href='/architects/gyo-obata/'>Gyo Obata</a></li>
+	<li><a href='/architects/h-g-balcom/'>H G Balcom</a></li>
+	<li><a href='/architects/h-craig-severance/'>H. Craig Severance</a></li>
+	<li><a href='/architects/haines-lundberg-waehler/'>Haines Lundberg Waehler</a></li>
+	<li><a href='/architects/harry-weese/'>Harry Weese</a></li>
+	<li><a href='/architects/harvey-wiley-corbett/'>Harvey Wiley Corbett</a></li>
+	<li><a href='/architects/hok/'>Hellmuth, Obata, &amp; Kassabaum</a></li>
+	<li><a href='/architects/helmut-jahn/'>Helmut Jahn</a></li>
+	<li><a href='/architects/henry-hornbostel/'>Henry Hornbostel</a></li>
+	<li><a href='/architects/henry-koch/'>Henry Koch</a></li>
+	<li><a href='/architects/henry-m-sugarman/'>Henry M. Sugarman</a></li>
+	<li><a href='/architects/henry-n-cobb/'>Henry N. Cobb</a></li>
+	<li><a href='/architects/hks-inc/'>HKS, Inc.</a></li>
+	<li><a href='/architects/hugh-stubbins-and-associates/'>Hugh Stubbins and Associates</a></li>
+	<li><a href='/architects/hugh-stubbins-jr/'>Hugh Stubbins Jr.</a></li>
+	<li><a href='/architects/i-m-pei/'>I. M. Pei</a></li>
+	<li><a href='/architects/ian-simpson/'>Ian Simpson</a></li>
+	<li><a href='/architects/irwin-chanin/'>Irwin Chanin</a></li>
+	<li><a href='/architects/irwin-clavan/'>Irwin Clavan</a></li>
+	<li><a href='/architects/jacques-brownson/'>Jacques Brownson</a></li>
+	<li><a href='/architects/james-a-johnson/'>James A. Johnson</a></li>
+	<li><a href='/architects/james-anderson/'>James Anderson</a></li>
+	<li><a href='/architects/james-c-allen/'>James C Allen</a></li>
+	<li><a href='/architects/james-edwin-ruthvin-carpenter/'>James Edwin Ruthvin Carpenter</a></li>
+	<li><a href='/architects/james-ingo-freed/'>James Ingo Freed</a></li>
+	<li><a href='/architects/james-rupert-miller/'>James Rupert Miller</a></li>
+</ul>
+<ul class='MarkupPagerNav'>
+	<li class='MarkupPagerNavOn MarkupPagerNavFirst MarkupPagerNavFirstNum'><a href='/architects/'><span>1</span></a></li>
+	<li><a href='/architects/page2'><span>2</span></a></li>
+	<li class='MarkupPagerNavLastNum'><a href='/architects/page3'><span>3</span></a></li>
+	<li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/architects/page2'><span>Next</span></a></li>
+</ul>
+<form id='skyscraper_search' method='get' action='/search/'>
+
+	<h3>Skyscraper Search</h3>
+
+	<p>
+	<label for='search_keywords'>Keywords</label>
+	<input type='text' name='keywords' id='search_keywords' value='' />
+	</p>
+
+	<p>
+	<label for='search_city'>City</label>
+	<select id='search_city' name='city'>
+		<option value=''>Any</option><option value='albuquerque'>Albuquerque</option><option value='amherst'>Amherst</option><option value='ann-arbor'>Ann Arbor</option><option value='atlanta'>Atlanta</option><option value='austin'>Austin</option><option value='baltimore'>Baltimore</option><option value='birmingham'>Birmingham</option><option value='boise'>Boise</option><option value='boston'>Boston</option><option value='buffalo'>Buffalo</option><option value='charlotte'>Charlotte</option><option value='chicago'>Chicago</option><option value='cincinnati'>Cincinnati</option><option value='cleveland'>Cleveland</option><option value='colorado-springs'>Colorado Springs</option><option value='columbia'>Columbia</option><option value='columbus'>Columbus</option><option value='dallas'>Dallas</option><option value='dayton'>Dayton</option><option value='denver'>Denver</option><option value='des-moines'>Des Moines</option><option value='detroit'>Detroit</option><option value='englewood'>Englewood</option><option value='fort-wayne'>Fort Wayne</option><option value='fort-worth'>Fort Worth</option><option value='honolulu'>Honolulu</option><option value='houston'>Houston</option><option value='indianapolis'>Indianapolis</option><option value='jacksonville'>Jacksonville</option><option value='jersey-city'>Jersey City</option><option value='kansas-city'>Kansas City</option><option value='lansing'>Lansing</option><option value='las-vegas'>Las Vegas</option><option value='los-angeles'>Los Angeles</option><option value='louisville'>Louisville</option><option value='lubbock'>Lubbock</option><option value='memphis'>Memphis</option><option value='miami'>Miami</option><option value='milwaukee'>Milwaukee</option><option value='minneapolis'>Minneapolis</option><option value='nashville'>Nashville</option><option value='new-haven'>New Haven</option><option value='new-orleans'>New Orleans</option><option value='new-york-city'>New York City</option><option value='norfolk'>Norfolk</option><option value='oakland'>Oakland</option><option value='oklahoma-city'>Oklahoma City</option><option value='omaha'>Omaha</option><option value='philadelphia'>Philadelphia</option><option value='pittsburgh'>Pittsburgh</option><option value='portland'>Portland</option><option value='providence'>Providence</option><option value='sacramento'>Sacramento</option><option value='salt-lake-city'>Salt Lake City</option><option value='san-antonio'>San Antonio</option><option value='san-diego'>San Diego</option><option value='san-francisco'>San Francisco</option><option value='seattle'>Seattle</option><option value='sioux-falls'>Sioux Falls</option><option value='southfield'>Southfield</option><option value='st-louis'>St. Louis</option><option value='st-petersburg'>St. Petersburg</option><option value='tampa'>Tampa</option><option value='toledo'>Toledo</option><option value='tucson'>Tucson</option><option value='tulsa'>Tulsa</option><option value='virginia-beach'>Virginia Beach</option><option value='washington'>Washington, DC</option><option value='wilmington'>Wilmington</option><option value='winston-salem'>Winston-Salem</option>
+	</select>
+	</p>
+
+	<p>
+	<label for='search_height'>Height</label>
+	<select id='search_height' name='height'>
+		<option value=''>Any</option><option value='0-250'>0-250 ft.</option><option value='250-500'>250-500 ft.</option><option value='500-750'>500-750 ft.</option><option value='750-1000'>750-1000 ft.</option><option value='1000+'>1000+ ft.</option>
+	</select>
+	</p>
+
+	<p>
+	<label for='search_floors'>Floors</label>
+	<select id='search_floors' name='floors'>
+		<option value=''>Any</option><option value='1-20'>1-20 floors</option><option value='20-40'>20-40 floors</option><option value='40-60'>40-60 floors</option><option value='60-80'>60-80 floors</option><option value='80+'>80+ floors</option>
+	</select>
+	</p>
+
+	<p>
+	<label for='search_year'>Year</label>
+	<select id='search_year' name='year'>
+		<option value=''>Any</option><option value='1850-1859'>1850s</option><option value='1860-1869'>1860s</option><option value='1870-1879'>1870s</option><option value='1880-1889'>1880s</option><option value='1890-1899'>1890s</option><option value='1900-1909'>1900s</option><option value='1910-1919'>1910s</option><option value='1920-1929'>1920s</option><option value='1930-1939'>1930s</option><option value='1940-1949'>1940s</option><option value='1950-1959'>1950s</option><option value='1960-1969'>1960s</option><option value='1970-1979'>1970s</option><option value='1980-1989'>1980s</option><option value='1990-1999'>1990s</option><option value='2000-2009'>2000s</option><option value='2010-2019'>2010s</option>
+	</select>
+	</p>
+
+	<p><input type='submit' id='search_submit' name='submit' value='Search' /></p>
+
+</form>
+
+
+<div id='skyscraper_links'>
+	<ul>
+		<li><a href='/search/?year=1800-1930&amp;sort=year'>Early US Skyscrapers</a></li>
+		<li><a href='/search/?height=700-2500&amp;sort=-height'>America's Tallest Skyscrapers</a></li>
+		<li><a href='/search/?year=2014'>Skyscrapers From This Year</a></li>
+		<li><a href='/all/'>All US Skyscrapers (A-Z)</a></li>
+	</ul>
+</div>
+
+			
+		</div><!--/content-->
+	</div><!--/container-->
+
+	<div id='footer'>
+		<div class='container'>
+			<p id='copyright'>
+	
+				
+				&copy; 2014 Ryan Cramer Design, LLC 
+				&bull; Data and photos from Wikipedia and Freebase
+				&bull; Powered by <a href="http://processwire.com">ProcessWire Open Source CMS v2.4.0</a>
+
+				&bull; <a href='/processwire/'>Login</a>
+			</p>
+			
+		</div>
+	</div>
+
+
+</body><!--RCD-->
+</html>

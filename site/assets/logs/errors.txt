@@ -1,0 +1,8 @@
+2014-06-11 09:16:29	?	http://capesideport.site/?/	Error: 	Exception: SQLSTATE[HY000] [2002] No such file or directory (in /Users/daslicht/Public/capesideport/wire/core/ProcessWire.php line 143)
+2014-06-11 09:33:38	?	http://capesideport.site/?/	Error: 	Exception: SQLSTATE[HY000] [2002] No such file or directory (in /Users/daslicht/Public/capesideport/wire/core/ProcessWire.php line 143)
+2014-06-11 09:48:51	?	http://capesideport.site/?/	Error: 	Exception: SQLSTATE[HY000] [2002] No such file or directory (in /Users/daslicht/Public/capesideport/wire/core/ProcessWire.php line 143)
+2014-06-12 13:42:19	?	http://capesideport.site/?/	Error: 	Exception: SQLSTATE[HY000] [2002] No such file or directory (in /Users/daslicht/Public/capesideport/wire/core/ProcessWire.php line 143)
+2014-06-12 13:42:20	?	http://capesideport.site/?/	Error: 	Exception: SQLSTATE[HY000] [2002] No such file or directory (in /Users/daslicht/Public/capesideport/wire/core/ProcessWire.php line 143)
+2014-06-14 09:42:48	?	http://capesideport.site/?/	Error: 	Exception: SQLSTATE[HY000] [2002] No such file or directory (in /Users/daslicht/Public/capesideport/wire/core/ProcessWire.php line 143)
+2014-06-14 09:50:43	?	http://capesideport.site/?/	Error: 	Exception: SQLSTATE[HY000] [2002] No such file or directory (in /Users/daslicht/Public/capesideport/wire/core/ProcessWire.php line 143)
+2014-06-18 04:35:19	?	http://capesideport.site/?/	Error: 	Exception: SQLSTATE[HY000] [2002] No such file or directory (in /Users/daslicht/Public/capesideport/wire/core/ProcessWire.php line 143)
